@@ -1,6 +1,6 @@
 # CSV CLi
 
-Transform csv file to json in Rust.
+Show CSV or Convert csv file to json in Rust.
 
 ## Usage
 
