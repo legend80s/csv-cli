@@ -1,6 +1,5 @@
-use std::path::Path;
-
 use clap::{Parser, Subcommand};
+use std::path::Path;
 
 #[derive(Debug, Parser)]
 #[command(name = "csv-cli", version, author, about, long_about = None)]
